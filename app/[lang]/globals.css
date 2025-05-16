@@ -71,3 +71,28 @@
 .button-services {
   @apply text-primary-wus border-primary-wus hover:bg-primary-wus hover:text-white;
 }
+
+/* Prose Styling für Impressum und andere Textseiten */
+.prose h2 {
+  @apply text-xl font-semibold mt-6 mb-3;
+}
+
+.prose p {
+  @apply mb-4;
+}
+
+.prose strong {
+  @apply font-semibold;
+}
+
+.dark .prose {
+  @apply text-gray-200;
+}
+
+.dark .prose h2 {
+  @apply text-white;
+}
+
+.dark .prose strong {
+  @apply text-white;
+}
