@@ -15,7 +15,7 @@ export function Footer({ lang, dictionary }: { lang: string; dictionary: any }) 
             <p className="text-sm text-muted-foreground">{dictionary.copyright}</p>
           </div>
 
-          <nav className="flex gap-6">
+          <nav className="flex flex-wrap justify-center md:justify-end gap-6">
             <Link
               href={`/${lang}/imprint`}
               className="text-sm text-muted-foreground hover:text-foreground transition-colors"

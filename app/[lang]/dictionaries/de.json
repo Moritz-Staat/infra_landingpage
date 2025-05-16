@@ -65,6 +65,31 @@
       }
     ]
   },
+  "contact": {
+    "sectionTitle": "Kontakt",
+    "sectionDescription": "Haben Sie Fragen oder möchten Sie ein Projekt besprechen? Kontaktieren Sie uns!",
+    "pageTitle": "Kontakt",
+    "pageDescription": "Wir freuen uns auf Ihre Nachricht. Füllen Sie das Formular aus und wir melden uns zeitnah bei Ihnen.",
+    "form": {
+      "title": "Kontaktformular",
+      "description": "Füllen Sie das Formular aus und wir melden uns bei Ihnen.",
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "consent": "Ich stimme der Verarbeitung meiner Daten gemäß der Datenschutzerklärung zu.",
+      "privacyLink": "Datenschutzerklärung",
+      "submit": "Absenden",
+      "success": "Vielen Dank für Ihre Nachricht!"
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "placeholder": "Diese Seite wird in Kürze ergänzt."
+  },
+  "imprint": {
+    "title": "Impressum",
+    "placeholder": "Diese Seite wird in Kürze ergänzt."
+  },
   "footer": {
     "company": "WUS Infra GmbH",
     "copyright": "© 2024 WUS Infra GmbH. Alle Rechte vorbehalten.",
