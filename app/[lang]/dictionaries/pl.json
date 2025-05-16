@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "WUS Infra GmbH - Infrastruktura jutra",
+    "description": "Eksperci w budowie sieci, planowaniu i konserwacji"
+  },
+  "navigation": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "contact": "Kontakt",
+    "language": "Język",
+    "languages": {
+      "de": "Niemiecki",
+      "en": "Angielski",
+      "pl": "Polski"
+    },
+    "theme": {
+      "light": "Jasny",
+      "dark": "Ciemny",
+      "system": "System"
+    }
+  },
+  "hero": {
+    "title": "Kształtujemy infrastrukturę jutra.",
+    "subtitle": "Eksperci w budowie sieci, planowaniu i konserwacji.",
+    "cta": {
+      "contact": "Skontaktuj się z nami",
+      "services": "Nasze usługi"
+    }
+  },
+  "services": {
+    "title": "Nasze Usługi",
+    "subtitle": "Kompleksowe rozwiązania dla Twoich projektów infrastrukturalnych",
+    "categories": [
+      {
+        "title": "Budowa i rozbudowa sieci infrastrukturalnych",
+        "items": [
+          "Sieci energetyczne",
+          "Sieci światłowodowe i telekomunikacyjne",
+          "Sieci zaopatrzeniowe",
+          "Obiekty przemysłowe i kolejowe (w tym obszary ruchu)",
+          "Prace inżynieryjne, drogowe i ścieżkowe"
+        ]
+      },
+      {
+        "title": "Planowanie i realizacja projektów",
+        "items": [
+          "Koncepcje techniczne, rysunki budowlane i plany projektów",
+          "Planowanie projektów, zarządzanie budową, nadzór, kontrola jakości"
+        ]
+      },
+      {
+        "title": "Konserwacja i utrzymanie",
+        "items": [
+          "Konserwacja sieci energetycznych, światłowodowych, telekomunikacyjnych i zaopatrzeniowych",
+          "Usługi awaryjne dla sprawnego działania sieci"
+        ]
+      },
+      {
+        "title": "Rozbiórka, prace ziemne i transport",
+        "items": [
+          "Wykopy, zagęszczanie, odtwarzanie powierzchni",
+          "Prace rozbiórkowe i demontażowe",
+          "Transport i utylizacja zgodnie z przepisami środowiskowymi"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "company": "WUS Infra GmbH",
+    "copyright": "© 2024 WUS Infra GmbH. Wszelkie prawa zastrzeżone.",
+    "links": {
+      "imprint": "Stopka redakcyjna",
+      "privacy": "Polityka prywatności",
+      "contact": "Kontakt"
+    }
+  }
+}

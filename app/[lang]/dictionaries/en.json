@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "WUS Infra GmbH - Infrastructure of Tomorrow",
+    "description": "Experts in network construction, planning and maintenance"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact",
+    "language": "Language",
+    "languages": {
+      "de": "German",
+      "en": "English",
+      "pl": "Polish"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  },
+  "hero": {
+    "title": "We shape the infrastructure of tomorrow.",
+    "subtitle": "Experts in network construction, planning and maintenance.",
+    "cta": {
+      "contact": "Contact us",
+      "services": "Our services"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your infrastructure projects",
+    "categories": [
+      {
+        "title": "Construction and Expansion of Infrastructure Networks",
+        "items": [
+          "Power grids",
+          "Fiber optic and telecommunications networks",
+          "Supply networks",
+          "Industrial and railway facilities (incl. traffic areas)",
+          "Civil engineering, road construction and path works"
+        ]
+      },
+      {
+        "title": "Planning and Project Implementation",
+        "items": [
+          "Technical concepts, construction drawings and project plans",
+          "Project planning, construction management, supervision, quality control"
+        ]
+      },
+      {
+        "title": "Maintenance and Upkeep",
+        "items": [
+          "Maintenance of power, fiber optic, telecommunications and supply networks",
+          "Emergency service for smooth network operation"
+        ]
+      },
+      {
+        "title": "Demolition, Earthworks and Transport",
+        "items": [
+          "Excavation, compaction, surface restoration",
+          "Demolition and dismantling work",
+          "Transport and disposal according to environmental regulations"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "company": "WUS Infra GmbH",
+    "copyright": "© 2024 WUS Infra GmbH. All rights reserved.",
+    "links": {
+      "imprint": "Imprint",
+      "privacy": "Privacy Policy",
+      "contact": "Contact"
+    }
+  }
+}

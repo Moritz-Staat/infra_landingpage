@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "title": "WUS Infra GmbH - Infrastruktur von morgen",
+    "description": "Experten für Netzbau, Planung und Instandhaltung"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "contact": "Kontakt",
+    "language": "Sprache",
+    "languages": {
+      "de": "Deutsch",
+      "en": "Englisch",
+      "pl": "Polnisch"
+    },
+    "theme": {
+      "light": "Hell",
+      "dark": "Dunkel",
+      "system": "System"
+    }
+  },
+  "hero": {
+    "title": "Wir gestalten die Infrastruktur von morgen.",
+    "subtitle": "Experten für Netzbau, Planung und Instandhaltung.",
+    "cta": {
+      "contact": "Kontakt aufnehmen",
+      "services": "Unsere Leistungen"
+    }
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Umfassende Lösungen für Ihre Infrastrukturprojekte",
+    "categories": [
+      {
+        "title": "Bau und Ausbau von Infrastrukturnetzen",
+        "items": [
+          "Stromnetze",
+          "Glasfaser- und Telekommunikationsnetze",
+          "Versorgungsnetze",
+          "Industrie- und Bahnanlagen (inkl. Verkehrsflächen)",
+          "Tiefbau-, Straßenbau- und Wegearbeiten"
+        ]
+      },
+      {
+        "title": "Planung und Projektumsetzung",
+        "items": [
+          "Technische Konzepte, Bauzeichnungen und Projektpläne",
+          "Projektplanung, Bauleitung, Überwachung, Qualitätskontrolle"
+        ]
+      },
+      {
+        "title": "Wartung und Instandhaltung",
+        "items": [
+          "Wartung von Strom-, Glasfaser-, Telekommunikations- und Versorgungsnetzen",
+          "Notfallservice für reibungslosen Netzbetrieb"
+        ]
+      },
+      {
+        "title": "Abbruch-, Erdarbeiten und Transport",
+        "items": [
+          "Aushub, Verdichtung, Oberflächenwiederherstellung",
+          "Abbruch- und Rückbauarbeiten",
+          "Transport und Entsorgung gemäß Umweltvorschriften"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "company": "WUS Infra GmbH",
+    "copyright": "© 2024 WUS Infra GmbH. Alle Rechte vorbehalten.",
+    "links": {
+      "imprint": "Impressum",
+      "privacy": "Datenschutz",
+      "contact": "Kontakt"
+    }
+  }
+}
